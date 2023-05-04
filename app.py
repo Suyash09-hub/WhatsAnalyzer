@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 st.sidebar.title("WhatsAnalyzer")
-st.sidebar.text("Created by \n Suyash Srivastava")
+st.sidebar.text("Created by \nSuyash Srivastava\nShreya Yadav\nSharad Singh \nRishika Sharma")
 
 uploaded_file = st.sidebar.file_uploader("Choose a file")
 if uploaded_file is not None:
